@@ -14,7 +14,7 @@ Las variables son las siguientes según la página oficial:
 - Transported - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
 
 En este proyecto se encuentran los siguientes documentos:
-- [Reporte ipynb]()
-- [Reporte html]()
-- [Base de datos de entrenamiento]()
-- [Base de datos de prueba]()
+- [Reporte ipynb](PP2_611858.ipynb)
+- [Reporte html](PP2_611858.html)
+- [Base de datos de entrenamiento](train.csv)
+- [Base de datos de prueba](test.csv)
